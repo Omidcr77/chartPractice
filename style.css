@@ -1,0 +1,22 @@
+body {
+    background-color: #333;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.language-icon {
+    font-size: 2em;
+    margin-right: 5px;
+}
+
+.chart-container {
+    background-color: #444;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+    text-align: center;
+}
